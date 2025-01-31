@@ -182,7 +182,7 @@ max_execution_time = 60
 max_input_vars = 5000
 memory_limit = 256M
 session.cookie_httponly = On
-date.timezone = America/Sao_Paulo
+date.timezone = Asia/Kolkata
 ```
 
 ### 11. Complete Web Installation
