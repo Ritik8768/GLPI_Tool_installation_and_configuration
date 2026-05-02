@@ -1,6 +1,6 @@
 
 ```markdown
-# GLPI Installation Guide on Ubuntu Server
+# GLPI Installation Guide on Ubuntu 24.04 Server
 
 This guide will walk you through the process of installing GLPI (Gestionnaire Libre de Parc Informatique) on an Ubuntu Server.
 
